@@ -34,7 +34,7 @@ You can install the required packages using the following command:
 
 ```bash
 pip install tensorflow scikit-learn pandas
-
+```
 Usage:
 Clone this repository to your local machine:
 git clone https://github.com/kundnanl/dog-breed-classification.git
