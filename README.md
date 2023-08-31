@@ -2,15 +2,6 @@
 
 This repository contains code for a dog breed classification model using TensorFlow and scikit-learn. The model takes features like weight, height, ear shape, and fur color as inputs and predicts the breed of the dog.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Preprocessing](#preprocessing)
-- [Prediction](#prediction)
-- [License](#license)
-
 ## Overview
 
 The project consists of the following components:
