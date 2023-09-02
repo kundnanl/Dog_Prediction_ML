@@ -1,4 +1,4 @@
-# Dog Breed Classification Model README
+# Dog Breed Classification Model
 
 This repository contains code for a dog breed classification model using TensorFlow and scikit-learn. The model takes features like weight, height, ear shape, and fur color as inputs and predicts the breed of the dog.
 
